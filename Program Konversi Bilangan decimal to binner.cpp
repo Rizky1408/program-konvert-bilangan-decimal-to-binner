@@ -27,7 +27,7 @@ int main ()
 {
 	
 	cout <<"\t\t Nama    :Rizky Adi Ryanto\n"
-	     <<"\t\t Nim     :19.01.013.044\n"
+	     <<"\t\t Nim     :**********\n"
 	     <<"\t\t Prodi   :Teknik Informatika\n"
 	     <<"\n\n";
 	     
